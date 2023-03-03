@@ -4,7 +4,6 @@ C:
 cd Users\crys_\OneDrive\Desktop
 cls
 
-
 echo                      #**********************************************************#
 echo                      #                                                          #
 echo                      #  Hello ! , pick file type to clean (Answer with          #
