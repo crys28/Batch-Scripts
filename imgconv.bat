@@ -45,7 +45,7 @@ pause
 exit
 :: ##########################################################
 :jfif
-rename *.jfif ???.jpg
+rename *.jfif *.jpg
 cls
 echo SUCCESS !!!
 pause
@@ -56,7 +56,7 @@ goto show
 exit
 :: ##########################################################
 :webp
-rename *.webp ???.jpg
+rename *.webp *.jpg
 cls
 echo SUCCESS !!!
 pause
@@ -67,8 +67,8 @@ goto show
 exit
 :: ##########################################################
 :both
-rename *.jfif ???.jpg
-rename *.webp ???.jpg
+rename *.jfif *.jpg
+rename *.webp *.jpg
 cls
 echo SUCCESS !!!
 pause
